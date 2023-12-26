@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\bin\Debug\gecti-kaldı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\bin\Debug\gecti-kaldı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\bin\Debug\gecti-kaldı.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti-kaldı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti-kaldı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti_kaldı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti_kaldı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti-kaldı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti-kaldı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti-kaldı.exe
+C:\Users\User\Desktop\KORUMASIZ\ntp\gecti-kaldı\gecti-kaldı\obj\Debug\gecti-kaldı.pdb
